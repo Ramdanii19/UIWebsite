@@ -11,50 +11,50 @@
       </li><!-- End Dashboard Nav -->
 
       <li class="nav-item">
-        <a class="nav-link " href="/">
-          <i class="bi bi-grid"></i>
+        <a class="nav-link " href="/siswa">
+          <i class="bi bi-person-fill"></i>
           <span>Data Siswa</span>
         </a>
       </li><!-- End Dashboard Nav -->
 
       <li class="nav-item">
         <a class="nav-link collapsed" href="/">
-          <i class="bi bi-grid"></i>
+          <i class="bi bi-person-badge-fill"></i>
           <span>Data Petugas</span>
         </a>
       </li><!-- End Dashboard Nav -->
 
       <li class="nav-item">
         <a class="nav-link collapsed" href="/">
-          <i class="bi bi-grid"></i>
+          <i class="bi bi-clipboard"></i>
           <span>Data Kelas</span>
         </a>
       </li><!-- End Dashboard Nav -->
 
       <li class="nav-item">
         <a class="nav-link collapsed" href="/">
-          <i class="bi bi-grid"></i>
+          <i class="ri-clipboard-line"></i>
           <span>Data SPP</span>
         </a>
       </li><!-- End Dashboard Nav -->
 
       <li class="nav-item">
         <a class="nav-link collapsed" href="/">
-          <i class="bi bi-grid"></i>
+          <i class="ri-shopping-cart-line"></i>
           <span>Pembayaran</span>
         </a>
       </li><!-- End Dashboard Nav -->
 
       <li class="nav-item">
         <a class="nav-link collapsed" href="/">
-          <i class="bi bi-grid"></i>
+          <i class="ri-file-history-line"></i>
           <span>History Pembayaran</span>
         </a>
       </li><!-- End Dashboard Nav -->
 
       <li class="nav-item">
         <a class="nav-link collapsed" href="/">
-          <i class="bi bi-grid"></i>
+          <i class="ri-clipboard-line"></i>
           <span>Generate Laporan</span>
         </a>
       </li><!-- End Dashboard Nav -->
